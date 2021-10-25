@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 A simple circuit that returns the position of the lowest-order set bit (1) in a given nybble. 
 
-<img src="https://github.com/abrarr18/Digital-Logic-Design/blob/main/DL1/lowOne.PNG" width=750><br>
+<img src="https://github.com/abrarr18/Digital-Logic-Design/blob/main/DL1/lowOne.PNG" width=650><br>
 
 ______________________________________________________________________________________________
 ______________________________________________________________________________________________
